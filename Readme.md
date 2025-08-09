@@ -10,8 +10,8 @@ Features
     Fast inference: Optimized for real-time speech synthesis
 
 
-https://huggingface.co/KittenML/kitten-tts-nano-0.1
-https://github.com/KittenML/KittenTTS
+- https://huggingface.co/KittenML/kitten-tts-nano-0.1
+- https://github.com/KittenML/KittenTTS
 
 ## Install
 
